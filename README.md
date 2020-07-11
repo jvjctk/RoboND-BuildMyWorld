@@ -6,8 +6,8 @@ This is the project library of initial project of udacity robotics software nano
 
 This workspace is fully developed with gazebo workspace. Screenshots are given below
 
-![alt text](images/world.png "Title")
-![alt text](images/robot.png "Title")
+![alt text](/images/world.png "Title")
+![alt text](/images/robot.png "Title")
 
 
 ## Setup
